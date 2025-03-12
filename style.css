@@ -1,0 +1,26 @@
+@font-face {
+    font-family: ShagLounge;
+    src: url(fonts/Shag-Lounge.otf);
+}
+
+body{
+    background-color: blue;
+}
+
+h1{
+    font-family: ShagLounge;
+    color: darkblue;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+#desciption{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    color: #240079;
+}
+
+#toonstext{
+color: maroon;
+}
